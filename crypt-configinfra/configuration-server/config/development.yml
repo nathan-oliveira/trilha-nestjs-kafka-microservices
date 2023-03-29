@@ -1,0 +1,6 @@
+db:
+  port: '5432'
+  host: 'localhost'
+  username: 'postgres'
+  password: 'docker'
+  synchronize: true
